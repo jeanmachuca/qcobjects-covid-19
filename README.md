@@ -25,7 +25,6 @@ To connect to the API using cURL, create a shell file named ***./get-covid-19-da
 curl 'https://dashboards-dev.sprinklr.com/data/9043/global-covid19-who-gis.json' \
   -H 'authority: dashboards-dev.sprinklr.com' \
   -H 'accept: application/json, text/plain, */*' \
-  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36' \
   -H 'origin: https://covid19.who.int' \
   -H 'sec-fetch-site: cross-site' \
   -H 'sec-fetch-mode: cors' \
