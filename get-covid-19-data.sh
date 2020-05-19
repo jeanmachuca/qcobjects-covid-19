@@ -1,0 +1,11 @@
+curl 'https://dashboards-dev.sprinklr.com/data/9043/global-covid19-who-gis.json' \
+  -H 'authority: dashboards-dev.sprinklr.com' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'origin: https://covid19.who.int' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: es-ES,es;q=0.9,en;q=0.8' \
+  -H 'if-none-match: "23ffd2d307702788a8553819a1431d24"' \
+  -H 'if-modified-since: Mon, 18 May 2020 01:15:19 GMT' \
+  --compressed
