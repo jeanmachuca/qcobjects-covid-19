@@ -40,7 +40,7 @@ curl 'https://dashboards-dev.sprinklr.com/data/9043/global-covid19-who-gis.json'
 
 To work with the data, you can use [QCObjects Collab for Data Science](https://www.npmjs.com/package/qcobjects-collab) that is a Open Source  Engine that helps Data Scientists to automate data processing and collaborative analysis tasks.
 
-QCObjects Collab uses a collaborative shell to do advanced math calcs usign ssh or unix-socket.
+QCObjects Collab uses a collaborative shell to do advanced math calc usign ssh or unix-socket.
 
 ## Installing QCObjects Collab from Docker
 
@@ -114,7 +114,7 @@ Enter to a QCObjects Collab session and do the following command:
 QCObjects Collab> .loadcmd_json covid = ./get-covid-19-data.sh
 ```
 
-The above command will save the response of the API into a global object called ***covid***. Then you can use this object to process the data and make calcs to reduce the result.
+The above command will save the response of the API into a global object called ***covid***. Then you can use this object to process the data and make calc to reduce the result.
 
 ## Using examples of data processing
 
