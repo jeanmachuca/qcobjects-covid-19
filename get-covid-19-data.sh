@@ -1,6 +1,7 @@
 curl 'https://dashboards-dev.sprinklr.com/data/9043/global-covid19-who-gis.json' \
   -H 'authority: dashboards-dev.sprinklr.com' \
   -H 'accept: application/json, text/plain, */*' \
+  -H 'user-agent: QCObjects Collab for Data Science' \
   -H 'origin: https://covid19.who.int' \
   -H 'sec-fetch-site: cross-site' \
   -H 'sec-fetch-mode: cors' \
