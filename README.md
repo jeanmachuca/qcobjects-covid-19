@@ -1,6 +1,6 @@
 # Processing COVID-19 Data from WHO.int
 
-This repo intended to help Data Scientists and data processing professionals to handle and manage data related to the COVID-19 disease outbreak. I hope this information helps researchers to find new ways of analysis to defeat the COVID-10 disease outbreak, as well as empower them to solve more complex math calcs using less time.
+This repo intended to help Data Scientists and data processing professionals to handle and manage data related to the COVID-19 disease outbreak. I hope this information helps researchers to find new ways of analysis to defeat the COVID-10 disease outbreak, as well as empower them to solve more complex math calc using less time.
 
 **DISCLAIMER:** We all know how neccesary is to have a trusted analysis of the situation. Today the most accurate data in terms of global information is coming from WHO.int. Unfortunately the use of the API explained here is not licensed on any form so you must use it at your own risk.
 This repo, the author and the tools used here are not related to WHO.int.
